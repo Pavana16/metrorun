@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714070215048",
+    "project_id": "metro-run-a7e85",
+    "storage_bucket": "metro-run-a7e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714070215048:android:5b059ef859258307d2523d",
+        "android_client_info": {
+          "package_name": "com.example.metro_run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714070215048-s7d3evuti51dlb37e289cuvu3f0h8vjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrfUujoEFolNDbHsFWHPfzpauMcnNZag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714070215048-s7d3evuti51dlb37e289cuvu3f0h8vjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
